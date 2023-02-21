@@ -7,5 +7,5 @@ phpAppTemplate is a template repo which is setup with nginx, mariadb and phpmyad
 Using docker compose
 
 ```bash
-docker-compose build && docker-compose up
+sudo docker-compose build && sudo docker-compose up
 ```
